@@ -44,7 +44,7 @@ const MessageInput = () => {
       if (fileInputRef.current) fileInputRef.current.value = "";
     } catch (error) {
       console.error("Failed to send message:", error);
-    }??????????
+    }?????????
   };/////////////////////??
 
   return (
